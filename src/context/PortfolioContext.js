@@ -22,7 +22,7 @@ export default function PortfolioContextProvider({ children }) {
     const AboutmeData =
         `A passionate developer and Computer Science student at Lovely Professional University, specializing in creating comprehensive web solutions with expertise in MERN Stack development.`;
 
-        const AboutData = {
+        const AboutMeExtra = {
             education: [
               { title: "Bachelor of Technology (Computer Science and Engineering)", institution: "Lovely Professional University, Phagwara, Punjab", duration: "Aug 2023 – Present • CGPA: 7.06" },
               { title: "Intermediate (PCM)", institution: "Gorakh Singh School, Siwan, Bihar", duration: "Mar 2022 – May 2023 • CGPA: 7.7" },
@@ -117,7 +117,9 @@ export default function PortfolioContextProvider({ children }) {
 
     const value = {
         AboutmeData,
-        AboutmeData,
+        AboutMeExtra,
+
+      
         AboutData
     };
 
