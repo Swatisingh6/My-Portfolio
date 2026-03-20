@@ -1,7 +1,7 @@
 
 import { createContext } from 'react';
-import { FaJava, FaJs, FaGitAlt, FaGithub, FaHtml5, FaCss3Alt, FaReact, FaNodeJs, FaLaptopCode, FaChartBar } from "react-icons/fa";
-import { SiCplusplus, SiMongodb, SiMysql, SiMicrosoftexcel, SiPowerbi, SiTailwindcss, SiExpress, SiJsonwebtokens } from "react-icons/si";
+import { FaJava, FaJs, FaGitAlt, FaGithub, FaHtml5, FaCss3Alt, FaReact, FaNodeJs, FaLaptopCode } from "react-icons/fa";
+import { SiCplusplus, SiMongodb, SiMysql } from "react-icons/si";
 import { TbApi } from "react-icons/tb";
 import innovation from '../img/innovation.png'
 import bank from '../img/bank.png'
@@ -116,7 +116,6 @@ export default function PortfolioContextProvider({ children }) {
           
 
     const value = {
-        AboutmeData,
         AboutmeData,
         AboutData
     };

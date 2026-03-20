@@ -3,7 +3,6 @@ import Home from "./components/Home";
 import About from "./components/About";
 import Vision from "./components/Vision";
 import Blog from "./components/Blog";
-import Portfolio from "./components/Portfolio";
 import Footer from './components/Footer';
 import Contact from './components/Contact';
 import { Toaster } from 'react-hot-toast';

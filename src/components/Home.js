@@ -1,18 +1,8 @@
-import { FaSquareFacebook, FaTwitter, FaEnvelope, FaPhone } from "react-icons/fa6";
-import { FaLinkedin } from "react-icons/fa";
-import { FaGithub } from "react-icons/fa";
-import { FaTelegram } from "react-icons/fa";
-
-import { RiReactjsLine } from "react-icons/ri";
-import { SiMongodb } from "react-icons/si";
-import { SiExpress } from "react-icons/si";
-import { RiNodejsLine } from "react-icons/ri";
-import { SiLeetcode } from "react-icons/si";
+import { FaGithub, FaLinkedin } from "react-icons/fa";
 
 import swatiImg from "../img/Swati Image.png";
 
-
-import { ReactTyped, Typed } from "react-typed";
+import { ReactTyped } from "react-typed";
 import { useContext } from "react";
 import { portfolioContext } from "../context/PortfolioContext";
 import { Link } from "react-scroll";

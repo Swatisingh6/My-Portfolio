@@ -1,5 +1,5 @@
 import { FaGithub, FaLinkedin, FaTwitter, FaInstagram } from "react-icons/fa";
-import { FaEnvelope, FaPhone } from "react-icons/fa6";
+import { FaEnvelope } from "react-icons/fa6";
 
 function Footer(){
     return(
