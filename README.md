@@ -1,5 +1,7 @@
 # Swati's Portfolio (React + Tailwind)
 
+GitHub repository: [Swatisingh6/My-Portfolio](https://github.com/Swatisingh6/My-Portfolio.git)
+
 This project is a personal portfolio website built with **React (Create React App)** and styled using **Tailwind CSS**. It includes smooth section navigation, animated UI, a custom animated galaxy background, and a contact form that sends messages to a form endpoint.
 
 ## Live Sections
